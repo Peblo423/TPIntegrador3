@@ -1,0 +1,2 @@
+archivo-20.txt
+Texto aleatorio para archivo-20.txt
